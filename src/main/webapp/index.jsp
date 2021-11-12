@@ -10,6 +10,6 @@
 </head>
 <body>
 	<c:redirect url="/LoadProduct"/>
-    <p>Test nick mới</p>
+    <p>Test nick  mới</p>
 </body>
 </html>
