@@ -11,5 +11,6 @@
 <body>
 	<c:redirect url="/LoadProduct"/>
     <p>ok aiu</p>
+    <p>Hello concac</p>
 </body>
 </html>
