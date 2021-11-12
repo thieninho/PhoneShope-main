@@ -10,5 +10,6 @@
 </head>
 <body>
 	<c:redirect url="/LoadProduct"/>
+    <p>ok aiu</p>
 </body>
 </html>
